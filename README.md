@@ -1,3 +1,5 @@
+## Goal
+This is an app to teach how to implement a ajax in Rails 6
 
 ## How to implement ajax for Restaurants
 
